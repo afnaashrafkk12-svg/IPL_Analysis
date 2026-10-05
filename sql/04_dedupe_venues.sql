@@ -1,0 +1,7 @@
+-- =====================================================
+-- 04_dedupe_venues.sql      -- the file name, repeated
+-- What this file fixes : the 4 duplicate venue rows
+-- Problem numbers      : 1, 2 and 3 from the Data Quality Log
+-- Written by           : Sahwa Thahseem
+-- =====================================================
+-- the SQL starts here

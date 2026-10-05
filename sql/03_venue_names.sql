@@ -1,0 +1,7 @@
+-- =====================================================
+-- 03_venue_names.sql      -- the file name, repeated
+-- What this file fixes : 59 venue spellings down to 41
+-- Problem numbers      : 1, 2 and 3 from the Data Quality Log
+-- Written by           : Sahwa Thahseem
+-- =====================================================
+-- the SQL starts here

@@ -1,0 +1,7 @@
+-- =====================================================
+-- 06_season_year.sql      -- the file name, repeated
+-- What this file fixes : season text becomes a year number
+-- Problem numbers      : 1, 2 and 3 from the Data Quality Log
+-- Written by           : Sahwa Thahseem
+-- =====================================================
+-- the SQL starts here

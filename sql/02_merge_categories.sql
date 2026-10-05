@@ -1,0 +1,7 @@
+-- =====================================================
+-- 02_merge_categories.sql      -- the file name, repeated
+-- What this file fixes : two spellings of one value
+-- Problem numbers      : 1, 2 and 3 from the Data Quality Log
+-- Written by           : Sahwa Thahseem
+-- =====================================================
+-- the SQL starts here
